@@ -1,0 +1,6 @@
+fastapi==0.135.1
+uvicorn==0.41.0
+asyncssh==2.24.1
+bcrypt==5.0.0
+pydantic==2.10.6
+qrcode==7.4.2

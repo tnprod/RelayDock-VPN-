@@ -1,0 +1,424 @@
+[
+  {
+    "name": "annotated-doc",
+    "version": "0.0.4",
+    "license": "MIT",
+    "files": [
+      "licenses/annotated-doc/LICENSE"
+    ]
+  },
+  {
+    "name": "annotated-types",
+    "version": "0.7.0",
+    "license": "See included license files",
+    "files": [
+      "licenses/annotated-types/LICENSE"
+    ]
+  },
+  {
+    "name": "anyio",
+    "version": "4.9.0",
+    "license": "MIT",
+    "files": [
+      "licenses/anyio/LICENSE"
+    ]
+  },
+  {
+    "name": "asyncssh",
+    "version": "2.24.1",
+    "license": "EPL-2.0 OR GPL-2.0-or-later",
+    "files": [
+      "licenses/asyncssh/LICENSE"
+    ]
+  },
+  {
+    "name": "attrs",
+    "version": "25.3.0",
+    "license": "MIT",
+    "files": [
+      "licenses/attrs/LICENSE"
+    ]
+  },
+  {
+    "name": "bcrypt",
+    "version": "5.0.0",
+    "license": "Apache-2.0",
+    "files": [
+      "licenses/bcrypt/LICENSE"
+    ]
+  },
+  {
+    "name": "cffi",
+    "version": "2.1.1",
+    "license": "MIT-0",
+    "files": [
+      "licenses/cffi/LICENSE"
+    ]
+  },
+  {
+    "name": "click",
+    "version": "8.3.1",
+    "license": "BSD-3-Clause",
+    "files": [
+      "licenses/click/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "colorama",
+    "version": "0.4.6",
+    "license": "See included license files",
+    "files": [
+      "licenses/colorama/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "cryptography",
+    "version": "50.0.2",
+    "license": "Apache-2.0 OR BSD-3-Clause",
+    "files": [
+      "licenses/cryptography/LICENSE",
+      "licenses/cryptography/LICENSE.APACHE",
+      "licenses/cryptography/LICENSE.BSD"
+    ]
+  },
+  {
+    "name": "fastapi",
+    "version": "0.135.1",
+    "license": "MIT",
+    "files": [
+      "licenses/fastapi/LICENSE"
+    ]
+  },
+  {
+    "name": "h11",
+    "version": "0.14.0",
+    "license": "MIT",
+    "files": [
+      "licenses/h11/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "httptools",
+    "version": "0.7.1",
+    "license": "MIT",
+    "files": [
+      "licenses/httptools/LICENSE"
+    ]
+  },
+  {
+    "name": "idna",
+    "version": "3.10",
+    "license": "See included license files",
+    "files": [
+      "licenses/idna/LICENSE.md"
+    ]
+  },
+  {
+    "name": "iniconfig",
+    "version": "2.3.1",
+    "license": "MIT",
+    "files": [
+      "licenses/iniconfig/LICENSE"
+    ]
+  },
+  {
+    "name": "markdown-it-py",
+    "version": "4.0.0",
+    "license": "See included license files",
+    "files": [
+      "licenses/markdown-it-py/LICENSE",
+      "licenses/markdown-it-py/LICENSE.markdown-it"
+    ]
+  },
+  {
+    "name": "MarkupSafe",
+    "version": "3.0.2",
+    "license": "Copyright 2010 Pallets\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are\nmet:\n\n1.  Redistributions of source code must retain the above copyright\n    notice, this list of conditions and the following disclaimer.\n\n2.  Redistributions in binary form must reproduce the above copyright\n    notice, this list of conditions and the following disclaimer in the\n    documentation and/or other materials provided with the distribution.\n\n3.  Neither the name of the copyright holder nor the names of its\n    contributors may be used to endorse or promote products derived from\n    this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS\n\"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT\nLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A\nPARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT\nHOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\nSPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED\nTO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR\nPROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF\nLIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING\nNEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n",
+    "files": [
+      "licenses/MarkupSafe/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "mdurl",
+    "version": "0.1.2",
+    "license": "See included license files",
+    "files": [
+      "licenses/mdurl/LICENSE"
+    ]
+  },
+  {
+    "name": "outcome",
+    "version": "1.3.0.post0",
+    "license": "MIT OR Apache-2.0",
+    "files": [
+      "licenses/outcome/LICENSE",
+      "licenses/outcome/LICENSE.APACHE2",
+      "licenses/outcome/LICENSE.MIT"
+    ]
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "license": "Apache-2.0 OR BSD-2-Clause",
+    "files": [
+      "licenses/packaging/LICENSE",
+      "licenses/packaging/LICENSE.APACHE",
+      "licenses/packaging/LICENSE.BSD"
+    ]
+  },
+  {
+    "name": "pillow",
+    "version": "11.3.0",
+    "license": "MIT-CMU",
+    "files": [
+      "licenses/pillow/LICENSE"
+    ]
+  },
+  {
+    "name": "pluggy",
+    "version": "1.7.0",
+    "license": "MIT",
+    "files": [
+      "licenses/pluggy/LICENSE"
+    ]
+  },
+  {
+    "name": "pycparser",
+    "version": "2.22",
+    "license": "BSD-3-Clause",
+    "files": [
+      "licenses/pycparser/LICENSE"
+    ]
+  },
+  {
+    "name": "pydantic",
+    "version": "2.10.6",
+    "license": "MIT",
+    "files": [
+      "licenses/pydantic/LICENSE"
+    ]
+  },
+  {
+    "name": "pydantic_core",
+    "version": "2.27.2",
+    "license": "MIT",
+    "files": [
+      "licenses/pydantic_core/LICENSE"
+    ]
+  },
+  {
+    "name": "Pygments",
+    "version": "2.19.2",
+    "license": "BSD-2-Clause",
+    "files": [
+      "licenses/Pygments/LICENSE"
+    ]
+  },
+  {
+    "name": "pyinstaller",
+    "version": "6.14.2",
+    "license": "GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)",
+    "files": [
+      "licenses/pyinstaller/COPYING.txt"
+    ]
+  },
+  {
+    "name": "pytest",
+    "version": "9.2.0",
+    "license": "MIT",
+    "files": [
+      "licenses/pytest/LICENSE"
+    ]
+  },
+  {
+    "name": "python-dotenv",
+    "version": "1.1.0",
+    "license": "BSD-3-Clause",
+    "files": [
+      "licenses/python-dotenv/LICENSE"
+    ]
+  },
+  {
+    "name": "pywin32",
+    "version": "311",
+    "license": "PSF",
+    "files": [
+      "licenses/pywin32/License.txt",
+      "licenses/pywin32/license.txt"
+    ]
+  },
+  {
+    "name": "PyYAML",
+    "version": "6.0.2",
+    "license": "MIT",
+    "files": [
+      "licenses/PyYAML/LICENSE"
+    ]
+  },
+  {
+    "name": "rich",
+    "version": "14.3.3",
+    "license": "MIT",
+    "files": [
+      "licenses/rich/LICENSE"
+    ]
+  },
+  {
+    "name": "setuptools",
+    "version": "80.9.0",
+    "license": "MIT",
+    "files": [
+      "licenses/setuptools/LICENSE",
+      "licenses/setuptools/LICENSE.APACHE",
+      "licenses/setuptools/LICENSE.BSD",
+      "licenses/setuptools/LICENSE.txt",
+      "licenses/setuptools/NOTICE"
+    ]
+  },
+  {
+    "name": "sniffio",
+    "version": "1.3.1",
+    "license": "MIT OR Apache-2.0",
+    "files": [
+      "licenses/sniffio/LICENSE",
+      "licenses/sniffio/LICENSE.APACHE2",
+      "licenses/sniffio/LICENSE.MIT"
+    ]
+  },
+  {
+    "name": "sortedcontainers",
+    "version": "2.4.0",
+    "license": "Apache 2.0",
+    "files": [
+      "licenses/sortedcontainers/LICENSE"
+    ]
+  },
+  {
+    "name": "starlette",
+    "version": "0.52.1",
+    "license": "BSD-3-Clause",
+    "files": [
+      "licenses/starlette/LICENSE.md"
+    ]
+  },
+  {
+    "name": "trio",
+    "version": "0.30.0",
+    "license": "MIT OR Apache-2.0",
+    "files": [
+      "licenses/trio/LICENSE",
+      "licenses/trio/LICENSE.APACHE2",
+      "licenses/trio/LICENSE.MIT"
+    ]
+  },
+  {
+    "name": "typing-inspection",
+    "version": "0.4.2",
+    "license": "MIT",
+    "files": [
+      "licenses/typing-inspection/LICENSE"
+    ]
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.14.1",
+    "license": "PSF-2.0",
+    "files": [
+      "licenses/typing_extensions/LICENSE"
+    ]
+  },
+  {
+    "name": "tzdata",
+    "version": "2025.2",
+    "license": "Apache-2.0",
+    "files": [
+      "licenses/tzdata/LICENSE",
+      "licenses/tzdata/LICENSE_APACHE"
+    ]
+  },
+  {
+    "name": "uvicorn",
+    "version": "0.41.0",
+    "license": "BSD-3-Clause",
+    "files": [
+      "licenses/uvicorn/LICENSE.md"
+    ]
+  },
+  {
+    "name": "watchdog",
+    "version": "4.0.2",
+    "license": "Apache-2.0",
+    "files": [
+      "licenses/watchdog/COPYING",
+      "licenses/watchdog/LICENSE"
+    ]
+  },
+  {
+    "name": "watchfiles",
+    "version": "1.1.1",
+    "license": "MIT",
+    "files": [
+      "licenses/watchfiles/LICENSE"
+    ]
+  },
+  {
+    "name": "websockets",
+    "version": "16.0",
+    "license": "BSD-3-Clause",
+    "files": [
+      "licenses/websockets/LICENSE"
+    ]
+  },
+  {
+    "name": "Werkzeug",
+    "version": "3.0.3",
+    "license": "See included license files",
+    "files": [
+      "licenses/Werkzeug/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "wsproto",
+    "version": "1.2.0",
+    "license": "MIT License",
+    "files": [
+      "licenses/wsproto/LICENSE"
+    ]
+  },
+  {
+    "name": "react",
+    "version": "19.2.0",
+    "license": "MIT",
+    "files": [
+      "licenses/react/LICENSE"
+    ]
+  },
+  {
+    "name": "react-dom",
+    "version": "19.2.0",
+    "license": "MIT",
+    "files": [
+      "licenses/react-dom/LICENSE"
+    ]
+  },
+  {
+    "name": "scheduler",
+    "version": "0.27.0",
+    "license": "MIT",
+    "files": [
+      "licenses/scheduler/LICENSE"
+    ]
+  },
+  {
+    "name": "qrcode",
+    "version": "7.4.2",
+    "files": [
+      "licenses/qrcode/LICENSE"
+    ]
+  },
+  {
+    "name": "pypng",
+    "version": "0.20220715.0",
+    "files": []
+  }
+]
