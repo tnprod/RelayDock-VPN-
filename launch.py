@@ -29,7 +29,7 @@ def main():
             if server.started:
                 webbrowser.open(url)
         threading.Thread(target=open_browser, daemon=True).start()
-    print('RelayDock 2.0 alpha — закройте это окно для остановки.')
+    print('RelayDock 2.0 beta 1 — закройте это окно для остановки.')
     print('Откроется локальный интерфейс. Серверы автоматически не изменяются.')
     if args.no_browser:
         # Explicit developer mode only. Never log SSH credentials or tokens in normal launch.
