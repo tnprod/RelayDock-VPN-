@@ -172,7 +172,9 @@ def create_app(data_dir=None, bootstrap_token=None, ssh_service=None):
         value=manager.profile(profile_id);items=links(value,value['secret'])
         if not 0<=index<len(items):raise UserError('Ссылка не найдена.')
         import qrcode
-        image=qrcode.make(items[index]['uri']);stream=io.BytesIO();image.save(stream,format='PNG')
+        from qrcode.image.pure import PyPNGImage
+        image=qrcode.make(items[index]['uri'],image_factory=PyPNGImage)
+        stream=io.BytesIO();image.save(stream)
         return Response(stream.getvalue(),media_type='image/png')
 
     @app.post('/api/profiles/{profile_id}/backup')
