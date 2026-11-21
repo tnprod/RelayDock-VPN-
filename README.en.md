@@ -12,7 +12,7 @@ It runs on your computer and opens a local browser interface. Once configured, t
 Client → stable entry VPS → replaceable exit VPS → internet
 ```
 
-## Available in 2.0 beta 1
+## Available in 2.0 beta 2
 
 - SSH access using a password, private key, or agent.
 - VLESS + REALITY through Xray and optional Telegram MTProxy.
@@ -27,7 +27,7 @@ The old exit is not deleted. RelayDock creates separate systemd services and ref
 
 The desktop build supports Windows x64. Managed servers currently require **Ubuntu 24.04 x86_64**, Python 3, systemd, and root or passwordless sudo. Use one VPS for direct mode or two for a separate entry and exit.
 
-Download and fully extract the archive from [Releases](https://github.com/tnprod/RelayDock-VPN-/releases), then run `RelayDock.exe`. Add your servers, verify their SSH host fingerprints against a trusted source, and choose «Настроить VPN» in «Подключения». Review the installation plan, configure the connection, and open «Ссылки и QR». Use «Заменить выход» to switch exits. The interface currently uses Russian.
+Download and fully extract the archive from [Releases](https://github.com/tnprod/RelayDock-VPN-/releases), then double-click `Запустить RelayDock.bat` (the Windows launcher). Add your servers, verify their SSH host fingerprints against a trusted source, and choose «Настроить VPN» in «Подключения». Review the installation plan, configure the connection, and open «Ссылки и QR». Use «Заменить выход» to switch exits. The interface currently uses Russian.
 
 Start with test servers. The application installs services and changes network settings. Keep access to your provider's server console, and run only one RelayDock instance against the same setup.
 
